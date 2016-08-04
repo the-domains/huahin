@@ -4,8 +4,15 @@
         <description><![CDATA[Hua Hin]]></description>
         <link>https://thegrid.ai/huahin/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 04 Aug 2016 07:09:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2016 07:09:16 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/huahin/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Cha Am Atv Park]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/64a5fcbd-0de1-4224-b08a-7e273815ccb6.jpg">]]></description>
+            <link>https://thegrid.ai/huahin/cha-am-atv-park/index.html</link>
+            <guid isPermaLink="false">ff3e1e9b-bb5e-4f59-92c2-2e2a5de223f7</guid>
+            <pubDate>Thu, 04 Aug 2016 07:08:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Cha Am Beach]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a9442ce0-e087-4fe6-8d88-b84026a17c4d.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/huahin/mrigadayavan-palace-cha-am/index.html</link>
             <guid isPermaLink="false">1acd6388-5562-4aad-b13c-d6c3e1e5c3d1</guid>
             <pubDate>Thu, 04 Aug 2016 07:04:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Vana Nava Water Park Hua Hin]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/aec24530-ed8b-478b-a460-e3c8036b88ac.jpg">]]></description>
-            <link>https://thegrid.ai/huahin/vana-nava-water-park-hua-hin/index.html</link>
-            <guid isPermaLink="false">1e5eaa86-d157-40b2-82e8-d6add749e489</guid>
-            <pubDate>Thu, 04 Aug 2016 07:04:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
