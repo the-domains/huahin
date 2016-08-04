@@ -4,8 +4,15 @@
         <description><![CDATA[Hua Hin]]></description>
         <link>https://thegrid.ai/huahin/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 04 Aug 2016 07:08:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2016 07:08:48 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/huahin/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Swiss Sheep Farm Cha Am]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/01ce8e05-db01-4fba-9614-0d6e473eff90.jpg">]]></description>
+            <link>https://thegrid.ai/huahin/swiss-sheep-farm-cha-am/index.html</link>
+            <guid isPermaLink="false">5d3c1cef-15fb-44c9-a104-3f2d673b18ee</guid>
+            <pubDate>Thu, 04 Aug 2016 07:08:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Palm Hills Golf Course Hua Hin]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/83e913f2-61f9-46a7-8aca-7a9fbb9a1ca6.jpg">]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3d029da2-fe04-46d2-89e9-9e35717b5be9.jpg">]]></description>
             <link>https://thegrid.ai/huahin/kaeng-krachan-national-park-petchaburi/index.html</link>
             <guid isPermaLink="false">68fae3f3-0a6f-4c9a-b64f-63e27c70022b</guid>
-            <pubDate>Thu, 04 Aug 2016 07:04:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Wat Tham Khao Tao Temple Complex Hua Hin]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/317cccaa-2b5a-40d9-8f7a-af783765fcdf.jpg">]]></description>
-            <link>https://thegrid.ai/huahin/wat-tham-khao-tao-temple-complex-hua-hin/index.html</link>
-            <guid isPermaLink="false">fa2c9371-4a12-4499-873a-b2a13cb06725</guid>
             <pubDate>Thu, 04 Aug 2016 07:04:46 GMT</pubDate>
         </item>
     </channel>
