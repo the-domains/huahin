@@ -4,8 +4,15 @@
         <description><![CDATA[Hua Hin]]></description>
         <link>https://thegrid.ai/huahin/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 04 Aug 2016 07:08:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2016 07:09:13 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/huahin/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Naresuan Shooting Range Cha Am]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/892ef7c4-ef88-4a04-b28b-f571493c45a4.jpg">]]></description>
+            <link>https://thegrid.ai/huahin/naresuan-shooting-range-cha-am/index.html</link>
+            <guid isPermaLink="false">5b8dc14d-c080-457e-b13e-31a8fb2271c9</guid>
+            <pubDate>Thu, 04 Aug 2016 07:08:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Santorini Water Park Cha Am]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/71029c1f-ef9a-4684-9622-aed3290bcd0a.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/huahin/bridge-over-the-river-kwai-kanchanaburi/index.html</link>
             <guid isPermaLink="false">99cedda4-d10d-4cbf-8b6c-491d34fe01d3</guid>
             <pubDate>Thu, 04 Aug 2016 07:04:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sai Noi Beach Hua Hin]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e12db2e2-84ba-44fb-891c-18009993acf8.jpg">]]></description>
-            <link>https://thegrid.ai/huahin/sai-noi-beach-hua-hin/index.html</link>
-            <guid isPermaLink="false">62542625-8110-40cc-a279-a377a81e10d7</guid>
-            <pubDate>Thu, 04 Aug 2016 07:04:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
