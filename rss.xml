@@ -4,13 +4,27 @@
         <description><![CDATA[Hua Hin]]></description>
         <link>https://thegrid.ai/huahin/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 04 Aug 2016 07:45:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2016 07:45:18 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/huahin/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Hua Hin Safari And Adventure Park]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7ba6bb3d-b4a8-4bff-8af4-d8d39f8ac6a5.jpg">]]></description>
+            <link>https://thegrid.ai/huahin/hua-hin-safari-and-adventure-park/index.html</link>
+            <guid isPermaLink="false">5eea4e44-1377-46e2-8649-46f02cfcaf17</guid>
+            <pubDate>Thu, 04 Aug 2016 07:44:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Sam Phan Nam Floating Market Hua Hin]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8c56b70e-6b41-4456-acd2-f49eaa717c0e.jpg">]]></description>
             <link>https://thegrid.ai/huahin/sam-phan-nam-floating-market-hua-hin/index.html</link>
             <guid isPermaLink="false">5de657e7-6c74-4cff-b816-bdbd0072f216</guid>
+            <pubDate>Thu, 04 Aug 2016 07:44:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Springfield Golf Course]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7af4c28f-3e86-42d0-b1db-9a38915c6062.jpg">]]></description>
+            <link>https://thegrid.ai/huahin/springfield-golf-course/index.html</link>
+            <guid isPermaLink="false">d2b43db7-ff91-45f6-8e5d-fd021d68027e</guid>
             <pubDate>Thu, 04 Aug 2016 07:44:51 GMT</pubDate>
         </item>
         <item>
@@ -61,20 +75,6 @@
             <link>https://thegrid.ai/huahin/santorini-water-park-cha-am/index.html</link>
             <guid isPermaLink="false">1fa9c184-7a4e-4237-8324-be5a55359d7b</guid>
             <pubDate>Thu, 04 Aug 2016 07:08:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fly Now Factory Outlet Hua Hin]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e7e57083-6316-48b5-9875-5af13fe5551e.jpg">]]></description>
-            <link>https://thegrid.ai/huahin/fly-now-factory-outlet-hua-hin/index.html</link>
-            <guid isPermaLink="false">3ffc0d34-5b58-4fca-a55a-fc538b96140e</guid>
-            <pubDate>Thu, 04 Aug 2016 07:08:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Swiss Sheep Farm Cha Am]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/01ce8e05-db01-4fba-9614-0d6e473eff90.jpg">]]></description>
-            <link>https://thegrid.ai/huahin/swiss-sheep-farm-cha-am/index.html</link>
-            <guid isPermaLink="false">5d3c1cef-15fb-44c9-a104-3f2d673b18ee</guid>
-            <pubDate>Thu, 04 Aug 2016 07:08:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
