@@ -7,20 +7,6 @@
         <lastBuildDate>Thu, 04 Aug 2016 07:45:48 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/huahin/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Kaeng Krachan Golf Course Hua Hin]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/31bc2ef2-d8d3-4f8f-9222-6c7015ed77c1.jpg">]]></description>
-            <link>https://thegrid.ai/huahin/kaeng-krachan-golf-course-hua-hin/index.html</link>
-            <guid isPermaLink="false">bb78af6e-5b38-4884-90c6-0e1a6b89d1ef</guid>
-            <pubDate>Thu, 04 Aug 2016 07:44:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hua Hin Hills Vineyard]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bd43e7ea-0230-48be-88a9-13a089b0e98a.jpg">]]></description>
-            <link>https://thegrid.ai/huahin/hua-hin-hills-vineyard/index.html</link>
-            <guid isPermaLink="false">ec30e679-247c-4ceb-87df-5cc2e0a04478</guid>
-            <pubDate>Thu, 04 Aug 2016 07:44:53 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Khao Hin Lek Fai Viewpoint Hua Hin]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/56671f54-403e-49d9-a8f3-dc9fb71217d3.jpg">]]></description>
             <link>https://thegrid.ai/huahin/khao-hin-lek-fai-viewpoint-hua-hin/index.html</link>
@@ -74,6 +60,20 @@
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/559f6df3-bc88-44a5-a431-55240c66a346.jpg">]]></description>
             <link>https://thegrid.ai/huahin/hua-hin-railway-station/index.html</link>
             <guid isPermaLink="false">1421327f-232a-4ec4-8697-960050b537d5</guid>
+            <pubDate>Thu, 04 Aug 2016 07:44:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Venezia Shopping Mall Hua Hin]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6c7bc477-ea18-4057-adcb-cf782f5ce2aa.jpg">]]></description>
+            <link>https://thegrid.ai/huahin/the-venezia-shopping-mall-hua-hin/index.html</link>
+            <guid isPermaLink="false">081b7642-0d90-4429-a09e-8771d59b5b6d</guid>
+            <pubDate>Thu, 04 Aug 2016 07:44:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rajabhakti Park Hua Hin]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c90086e9-d5a5-4869-96d1-4f93c5bdef15.jpg">]]></description>
+            <link>https://thegrid.ai/huahin/rajabhakti-park-hua-hin/index.html</link>
+            <guid isPermaLink="false">0f4f9b66-a9c7-47d8-8b40-73413191032a</guid>
             <pubDate>Thu, 04 Aug 2016 07:44:52 GMT</pubDate>
         </item>
     </channel>
