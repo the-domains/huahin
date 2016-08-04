@@ -1,7 +1,7 @@
 name: huahin
 favicon: null
-layout_spectrum: 0.6091557960025966
-typography_spectrum: 0.0018266921397298574
+layout_spectrum: 0.88508
+typography_spectrum: 0.33273
 title: Hua Hin
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
+    - '#0091c0'
+    - '#fffffd'
+    - '#958a6e'
+    - '#ccc8ab'
+    - '#cc0000'
   brandStrength: 0.9063991601578891
-  lightness: 0.16404252056963742
-  saturation: 0.7460062534082681
+  lightness: 0.75
+  saturation: 0.75
   rhythmicContrast: 0.4647463003639132
 purpose: []
