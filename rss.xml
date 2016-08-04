@@ -4,8 +4,22 @@
         <description><![CDATA[Hua Hin]]></description>
         <link>https://thegrid.ai/huahin/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 04 Aug 2016 07:46:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2016 07:49:19 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/huahin/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Grand Sport Arena Muay Thai Boxing]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/839f5a0b-5a6e-4641-b730-ae6c7fc41a3e.jpg">]]></description>
+            <link>https://thegrid.ai/huahin/grand-sport-arena-muay-thai-boxing/index.html</link>
+            <guid isPermaLink="false">08f527be-f079-4be4-acfd-8b445769052e</guid>
+            <pubDate>Thu, 04 Aug 2016 07:49:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hutsadin Elephant Foundation Hua Hin]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/83b0944c-bf40-4e69-b1cf-e9e1cdbf864d.jpg">]]></description>
+            <link>https://thegrid.ai/huahin/hutsadin-elephant-foundation-hua-hin/index.html</link>
+            <guid isPermaLink="false">5c256123-0aa5-44af-9fc4-1f42352c4843</guid>
+            <pubDate>Thu, 04 Aug 2016 07:44:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Banyan Golf Club]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d057d2b6-d4c1-4aea-9756-9460e02dfd4e.jpg">]]></description>
@@ -61,20 +75,6 @@
             <link>https://thegrid.ai/huahin/thai-boxing-garden-hua-hin/index.html</link>
             <guid isPermaLink="false">9b37811b-e85e-4964-8236-df92ed3f2e89</guid>
             <pubDate>Thu, 04 Aug 2016 07:44:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Kitesurfing Hua Hin]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f67c1c3e-655c-4715-82f3-9fa66caf304f.jpg">]]></description>
-            <link>https://thegrid.ai/huahin/kitesurfing-hua-hin/index.html</link>
-            <guid isPermaLink="false">9f5dda61-101a-43b6-8ac0-d52b1dc7074b</guid>
-            <pubDate>Thu, 04 Aug 2016 07:44:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Majestic Creek Golf Course Hua Hin]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/213dceb6-f834-4a41-b955-294a7004e55b.jpg">]]></description>
-            <link>https://thegrid.ai/huahin/majestic-creek-golf-course-hua-hin/index.html</link>
-            <guid isPermaLink="false">de30e8de-32e5-471c-94c0-5b2acb53dc0e</guid>
-            <pubDate>Thu, 04 Aug 2016 07:44:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
