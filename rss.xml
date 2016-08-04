@@ -4,8 +4,15 @@
         <description><![CDATA[Hua Hin]]></description>
         <link>https://thegrid.ai/huahin/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 04 Aug 2016 07:49:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2016 16:25:55 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/huahin/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Hua Hin Introduction]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/249f6eed-8912-4318-96ee-9aa0fe3072ce.jpg">]]></description>
+            <link>https://thegrid.ai/huahin/hua-hin-introduction/index.html</link>
+            <guid isPermaLink="false">ec9b17c1-01a9-4c1c-9aaf-fc1fe9b25b24</guid>
+            <pubDate>Thu, 04 Aug 2016 16:25:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Grand Sport Arena Muay Thai Boxing]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/839f5a0b-5a6e-4641-b730-ae6c7fc41a3e.jpg">]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/56671f54-403e-49d9-a8f3-dc9fb71217d3.jpg">]]></description>
             <link>https://thegrid.ai/huahin/khao-hin-lek-fai-viewpoint-hua-hin/index.html</link>
             <guid isPermaLink="false">44051511-4302-4b3a-a849-09a6ab370bb7</guid>
-            <pubDate>Thu, 04 Aug 2016 07:44:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Thai Boxing Garden Hua Hin]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b6e11398-82aa-4196-9e99-8abbbec75e3f.jpg">]]></description>
-            <link>https://thegrid.ai/huahin/thai-boxing-garden-hua-hin/index.html</link>
-            <guid isPermaLink="false">9b37811b-e85e-4964-8236-df92ed3f2e89</guid>
             <pubDate>Thu, 04 Aug 2016 07:44:53 GMT</pubDate>
         </item>
     </channel>
