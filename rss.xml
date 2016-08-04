@@ -4,22 +4,8 @@
         <description><![CDATA[Hua Hin]]></description>
         <link>https://thegrid.ai/huahin/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 04 Aug 2016 07:45:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2016 07:45:48 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/huahin/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Hua Hin City Football Club]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a3deebc1-5740-4e77-92cf-0fd2b8e6e2d2.jpg">]]></description>
-            <link>https://thegrid.ai/huahin/hua-hin-city-football-club/index.html</link>
-            <guid isPermaLink="false">7a18231e-b2ac-479b-8e22-56fee41c0d98</guid>
-            <pubDate>Thu, 04 Aug 2016 07:44:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Go Kart Hua Hin]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/78a89470-06ae-4464-8ebf-e485e64c4c37.jpg">]]></description>
-            <link>https://thegrid.ai/huahin/go-kart-hua-hin/index.html</link>
-            <guid isPermaLink="false">6968ad84-b3fe-48e2-99d4-df32d1e20803</guid>
-            <pubDate>Thu, 04 Aug 2016 07:44:53 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Kaeng Krachan Golf Course Hua Hin]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/31bc2ef2-d8d3-4f8f-9222-6c7015ed77c1.jpg">]]></description>
@@ -74,6 +60,20 @@
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9d3a3e0a-107a-4a0f-951c-482e1e800f66.jpg">]]></description>
             <link>https://thegrid.ai/huahin/phraya-nakhon-cave-hua-hin/index.html</link>
             <guid isPermaLink="false">cd585bf0-7948-4163-98d3-701f39bb5ff6</guid>
+            <pubDate>Thu, 04 Aug 2016 07:44:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Plearn Wan Hua Hin]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/325a04bb-6721-4dae-943a-ecf967ff09f9.jpg">]]></description>
+            <link>https://thegrid.ai/huahin/plearn-wan-hua-hin/index.html</link>
+            <guid isPermaLink="false">32e67eae-c41c-4f99-af76-1f4e1829e03a</guid>
+            <pubDate>Thu, 04 Aug 2016 07:44:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hua Hin Railway Station]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/559f6df3-bc88-44a5-a431-55240c66a346.jpg">]]></description>
+            <link>https://thegrid.ai/huahin/hua-hin-railway-station/index.html</link>
+            <guid isPermaLink="false">1421327f-232a-4ec4-8697-960050b537d5</guid>
             <pubDate>Thu, 04 Aug 2016 07:44:52 GMT</pubDate>
         </item>
     </channel>
