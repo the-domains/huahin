@@ -4,8 +4,15 @@
         <description><![CDATA[Hua Hin]]></description>
         <link>https://thegrid.ai/huahin/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 04 Aug 2016 07:08:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2016 07:08:45 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/huahin/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Palm Hills Golf Course Hua Hin]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/83e913f2-61f9-46a7-8aca-7a9fbb9a1ca6.jpg">]]></description>
+            <link>https://thegrid.ai/huahin/palm-hills-golf-course-hua-hin/index.html</link>
+            <guid isPermaLink="false">df8497ae-8503-4c10-bdb8-5a0f89183a80</guid>
+            <pubDate>Thu, 04 Aug 2016 07:08:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Imperial Lakeview Golf Course Hua Hin]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a6e45a26-42ad-4d24-9274-d9253c4a8afa.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/huahin/wat-tham-khao-tao-temple-complex-hua-hin/index.html</link>
             <guid isPermaLink="false">fa2c9371-4a12-4499-873a-b2a13cb06725</guid>
             <pubDate>Thu, 04 Aug 2016 07:04:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Koh Talu Island]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ee9c20ec-6e8c-48b5-b8bc-380c64c6f087.jpg">]]></description>
-            <link>https://thegrid.ai/huahin/koh-talu-island/index.html</link>
-            <guid isPermaLink="false">8ea73abf-0621-472e-9acf-2d42e10072aa</guid>
-            <pubDate>Thu, 04 Aug 2016 07:04:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
