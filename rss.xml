@@ -4,8 +4,15 @@
         <description><![CDATA[Hua Hin]]></description>
         <link>https://thegrid.ai/huahin/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 04 Aug 2016 07:05:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2016 07:05:18 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/huahin/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Vana Nava Water Park Hua Hin]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/aec24530-ed8b-478b-a460-e3c8036b88ac.jpg">]]></description>
+            <link>https://thegrid.ai/huahin/vana-nava-water-park-hua-hin/index.html</link>
+            <guid isPermaLink="false">1e5eaa86-d157-40b2-82e8-d6add749e489</guid>
+            <pubDate>Thu, 04 Aug 2016 07:04:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Wat Huay Mongkol Temple Hua Hin]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/aba35bb1-2841-41b3-af0a-0ec350d904f2.jpg">]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b96e4ab1-f031-4386-a142-87f36e5cec27.jpg">]]></description>
             <link>https://thegrid.ai/huahin/premium-outlet-cha-am-is-factory-outlet-shopping-mall-betwee/index.html</link>
             <guid isPermaLink="false">7af765ae-ba76-48fe-bce3-43a18d0e0cb1</guid>
-            <pubDate>Thu, 04 Aug 2016 07:04:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/aa397a4a-0581-4d94-98f8-c45790182c61.jpg">]]></description>
-            <link>https://thegrid.ai/huahin/damnoen-saduak-floating-market-is-the-most-famous-of-many-fl/index.html</link>
-            <guid isPermaLink="false">e191ca3e-ab86-4291-a5c6-8eee33dea5d5</guid>
             <pubDate>Thu, 04 Aug 2016 07:04:45 GMT</pubDate>
         </item>
     </channel>
