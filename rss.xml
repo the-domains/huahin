@@ -4,8 +4,15 @@
         <description><![CDATA[Hua Hin]]></description>
         <link>https://thegrid.ai/huahin/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 04 Aug 2016 07:09:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2016 07:09:15 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/huahin/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Cha Am Beach]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a9442ce0-e087-4fe6-8d88-b84026a17c4d.jpg">]]></description>
+            <link>https://thegrid.ai/huahin/cha-am-beach/index.html</link>
+            <guid isPermaLink="false">bde0193d-7540-4506-a284-4db1b5a57373</guid>
+            <pubDate>Thu, 04 Aug 2016 07:08:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Camel Republic Cha Am]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1b0031fb-5904-4d26-b688-7511dd0684bf.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/huahin/vana-nava-water-park-hua-hin/index.html</link>
             <guid isPermaLink="false">1e5eaa86-d157-40b2-82e8-d6add749e489</guid>
             <pubDate>Thu, 04 Aug 2016 07:04:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Wat Huay Mongkol Temple Hua Hin]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/aba35bb1-2841-41b3-af0a-0ec350d904f2.jpg">]]></description>
-            <link>https://thegrid.ai/huahin/wat-huay-mongkol-temple-hua-hin/index.html</link>
-            <guid isPermaLink="false">a31f5ce6-56c6-409e-b589-5268a7d9649d</guid>
-            <pubDate>Thu, 04 Aug 2016 07:04:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
