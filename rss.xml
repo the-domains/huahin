@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Hua Hin]]></title>
         <description><![CDATA[Hua Hin]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/huahin/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 04 Aug 2016 06:57:11 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 04 Aug 2016 07:02:41 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/huahin/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Black Mountain Wake Park Hua Hin]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/85e6ba6a-0d50-42e9-b37b-33715cc67827.jpg">]]></description>
+            <link>https://thegrid.ai/huahin/black-mountain-wake-park-hua-hin/index.html</link>
+            <guid isPermaLink="false">4c21ee2b-c552-414c-a886-fb0049d3dda1</guid>
+            <pubDate>Thu, 04 Aug 2016 07:02:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Hua Hin Introduction]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/249f6eed-8912-4318-96ee-9aa0fe3072ce.jpg">]]></description>
-            <link>undefinedhua-hin-introduction/index.html</link>
+            <link>https://thegrid.ai/huahin/hua-hin-introduction/index.html</link>
             <guid isPermaLink="false">ec9b17c1-01a9-4c1c-9aaf-fc1fe9b25b24</guid>
             <pubDate>Thu, 04 Aug 2016 06:57:10 GMT</pubDate>
         </item>
